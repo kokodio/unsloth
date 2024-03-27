@@ -35,7 +35,7 @@ exclude = ["images*"]
 huggingface = [
     "tyro",
     "transformers>=4.38.2",
-    "datasets>=2.16.0",
+    "datasets==2.17.1",
     "sentencepiece",
     "tqdm",
     "psutil",
